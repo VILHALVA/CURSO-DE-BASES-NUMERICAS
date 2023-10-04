@@ -1,5 +1,5 @@
 # CURSO DE BASES NUMERICAS
-👨‍⚖️MINICURSO DE NUMERAIS.
+👨‍⚖️MINICURSO DE BASES NÚMERICAS PARA CIÊNCIA DA COMPUTAÇÃO.
 
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
 [![GitHub Repo stars](https://img.shields.io/badge/-PLAYLIST%20DO%20YOUTUBE-blueviolet)](https://youtube.com/playlist?list=PLHz_AreHm4dlmeSpWzJGWOmFnVF5k_IYi&si=m3FkGH0X3eS20MUx)
