@@ -1,5 +1,5 @@
 # CURSO DE BASES NUMERICAS
-👨‍⚖️CURSO COMPRETO DE COMPUTAÇÃO.
+👨‍⚖️MINICURSO DE NUMERAIS.
 
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
 [![GitHub Repo stars](https://img.shields.io/badge/-PLAYLIST%20DO%20YOUTUBE-blueviolet)](https://youtube.com/playlist?list=PLHz_AreHm4dlmeSpWzJGWOmFnVF5k_IYi&si=m3FkGH0X3eS20MUx)
