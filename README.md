@@ -4,10 +4,6 @@
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
 [![GitHub Repo stars](https://img.shields.io/badge/-PLAYLIST%20DO%20YOUTUBE-blueviolet)](https://youtube.com/playlist?list=PLHz_AreHm4dlmeSpWzJGWOmFnVF5k_IYi&si=m3FkGH0X3eS20MUx)
 
-<img src="https://i1.wp.com/mecatronicacemporcento.com.br/wp-content/uploads/Os-sistemas-de-numera%C3%A7%C3%A3o.png?resize=233%2C233&ssl=1" align="center" width="280"> <br>
-
-![](https://i.imgur.com/waxVImv.png)
-
 ## CONCEITO:
 O estudo das bases numéricas é fundamental na computação e em muitas outras áreas da ciência da computação. As bases numéricas são sistemas usados para representar números de diferentes maneiras, e entender como elas funcionam é fundamental para programação, processamento de dados e muitos outros aspectos da computação.
 
