@@ -2,7 +2,6 @@
 👨‍⚖️BASES NUMÉRICAS SÃO SISTEMAS UTILIZADOS PARA REPRESENTAR NÚMEROS, COMO O SISTEMA DECIMAL (BASE 10), BINÁRIO (BASE 2), OCTAL (BASE 8) E HEXADECIMAL (BASE 16). CADA BASE TEM SUA PRÓPRIA FORMA DE REPRESENTAÇÃO E VALORIZAÇÃO DOS ALGARISMOS.
 
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
-[![GitHub Repo stars](https://img.shields.io/badge/VEJA%20OS-VIDEOS-03A9F4?logo=youtube)](https://www.youtube.com/@vilhalva100/search?query=BINARIOS)
 [![GitHub Repo stars](https://img.shields.io/badge/-PLAYLIST%20DO%20YOUTUBE-blueviolet)](https://youtube.com/playlist?list=PLHz_AreHm4dlmeSpWzJGWOmFnVF5k_IYi&si=m3FkGH0X3eS20MUx)
 
 <img src="https://i1.wp.com/mecatronicacemporcento.com.br/wp-content/uploads/Os-sistemas-de-numera%C3%A7%C3%A3o.png?resize=233%2C233&ssl=1" align="center" width="280"> <br>
