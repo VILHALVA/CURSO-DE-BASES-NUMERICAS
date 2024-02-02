@@ -1,8 +1,7 @@
 # CURSO DE BASES NUMERICAS
 👨‍⚖️BASES NUMÉRICAS SÃO SISTEMAS UTILIZADOS PARA REPRESENTAR NÚMEROS, COMO O SISTEMA DECIMAL (BASE 10), BINÁRIO (BASE 2), OCTAL (BASE 8) E HEXADECIMAL (BASE 16). CADA BASE TEM SUA PRÓPRIA FORMA DE REPRESENTAÇÃO E VALORIZAÇÃO DOS ALGARISMOS.
 
-[![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
-[![GitHub Repo stars](https://img.shields.io/badge/-PLAYLIST%20DO%20YOUTUBE-blueviolet)](https://youtube.com/playlist?list=PLHz_AreHm4dlmeSpWzJGWOmFnVF5k_IYi&si=m3FkGH0X3eS20MUx)
+<img src="FOTO.png" align="center" width="400"> <br>
 
 ## CONCEITO:
 O estudo das bases numéricas é fundamental na computação e em muitas outras áreas da ciência da computação. As bases numéricas são sistemas usados para representar números de diferentes maneiras, e entender como elas funcionam é fundamental para programação, processamento de dados e muitos outros aspectos da computação.
@@ -67,3 +66,7 @@ As bases numéricas, também chamadas de sistemas de numeração, são métodos 
 - **Não Tão Compacta como a Base 2:** Embora seja mais compacta que a base 10, ainda é menos eficiente do que a base 2 para representação direta de dados binários.
 
 Cada base numérica tem seu propósito e aplicação específicos, sendo escolhida com base nas necessidades do contexto em que está sendo utilizada.
+
+## SUBSIDIOS:
+- [CURSO CRIADO PELO "CURSO EM VIDEO"](https://youtube.com/playlist?list=PLHz_AreHm4dlmeSpWzJGWOmFnVF5k_IYi&si=m3FkGH0X3eS20MUx)
+- [CURSO FEITO PELO VILHALVA](https://github.com/VILHALVA)
